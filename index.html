@@ -19,7 +19,7 @@
           <a href="#big5">BIG 5</a>
           <a href="#backup">備案</a>
           <a href="#maps">地圖</a>
-          <a href="#assistant">卡迪巴拉</a>
+          <button class="nav-chat" type="button" data-open-chat>卡迪巴拉</button>
         </div>
       </nav>
       <section class="hero" id="overview">
@@ -126,40 +126,35 @@
         </div>
       </section>
 
-      <section class="section assistant-section" id="assistant">
-        <div class="section-heading">
-          <p class="eyebrow">AI Helper</p>
-          <h2>卡迪巴拉 AI 小助手</h2>
-          <p>選擇當天狀態，卡迪巴拉會用既有行程與備案規則產生可執行建議。</p>
-        </div>
-        <div class="assistant-card">
-          <div class="assistant-controls">
-            <label>
-              今天
-              <select id="assistantDay"></select>
-            </label>
-            <label>
-              天候
-              <select id="assistantWeather">
-                <option value="hot">極端高溫</option>
-                <option value="rain">午後雷雨</option>
-                <option value="normal">天氣穩定</option>
-              </select>
-            </label>
-            <label>
-              體力
-              <select id="assistantEnergy">
-                <option value="low">偏低</option>
-                <option value="medium">普通</option>
-                <option value="high">很好</option>
-              </select>
-            </label>
-            <button class="primary-btn" type="button" id="askAssistant">產生建議</button>
-          </div>
-          <div class="assistant-output" id="assistantOutput" aria-live="polite"></div>
-        </div>
-      </section>
     </main>
+
+    <aside class="chat-widget" id="chatWidget" aria-label="卡迪巴拉 AI 小助手">
+      <button class="chat-launcher" type="button" id="chatLauncher" aria-expanded="false">
+        <span>卡迪巴拉</span>
+        <strong>AI 小助手</strong>
+      </button>
+      <section class="chat-window" id="chatWindow" aria-hidden="true">
+        <header class="chat-header">
+          <div>
+            <span>Capybara AI</span>
+            <strong>卡迪巴拉小助手</strong>
+          </div>
+          <button class="chat-close" type="button" id="chatClose" aria-label="關閉卡迪巴拉">×</button>
+        </header>
+        <div class="chat-messages" id="chatMessages" aria-live="polite"></div>
+        <div class="chat-suggestions" id="chatSuggestions"></div>
+        <form class="chat-input-row" id="chatForm">
+          <input
+            id="chatInput"
+            type="text"
+            autocomplete="off"
+            placeholder="問卡迪巴拉：Day6 下雨怎麼改？"
+            aria-label="輸入問題"
+          />
+          <button class="primary-btn" type="submit">送出</button>
+        </form>
+      </section>
+    </aside>
 
     <footer class="footer">
       <span>2026 釜山大邱自助旅遊規劃</span>
