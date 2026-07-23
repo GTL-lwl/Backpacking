@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>韓國釜山大邱自助旅遊總規劃</title>
+    <meta
+      name="description"
+      content="2026 釜山大邱 Day1-Day9 自助旅遊規劃、NAVER Map 導航、BIG 5 通行證策略與活動備案。"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <nav class="topbar" aria-label="主導覽">
+        <a class="brand" href="#overview">Busan Daegu 2026</a>
+        <div class="nav-links">
+          <a href="#days">Day1-Day9</a>
+          <a href="#big5">BIG 5</a>
+          <a href="#backup">備案</a>
+          <a href="#maps">地圖</a>
+          <a href="#assistant">卡迪巴拉</a>
+        </div>
+      </nav>
+      <section class="hero" id="overview">
+        <div class="hero-copy">
+          <p class="eyebrow">2026/7/28 - 2026/8/5</p>
+          <h1>韓國釜山大邱自助旅遊總規劃</h1>
+          <p class="hero-text">
+            釜山入境、大邱移防、釜山深度行程、金海機場返台。以每日時間軸、NAVER Map
+            韓文關鍵字、活動備案與退稅提醒做成旅途中可直接查閱的操作面板。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-btn" href="#days">查看每日行程</a>
+            <a class="secondary-btn" id="pdfLink" href="#" target="_blank" rel="noreferrer">下載 PDF</a>
+          </div>
+        </div>
+        <div class="trip-stats" aria-label="行程摘要">
+          <div>
+            <strong>9</strong>
+            <span>天行程</span>
+          </div>
+          <div>
+            <strong>2</strong>
+            <span>城市</span>
+          </div>
+          <div>
+            <strong>5</strong>
+            <span>BIG 5 景點</span>
+          </div>
+          <div>
+            <strong>NAVER</strong>
+            <span>主導航</span>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="section" id="days">
+        <div class="section-heading">
+          <p class="eyebrow">Itinerary</p>
+          <h2>每日行程</h2>
+        </div>
+        <div class="day-tabs" id="dayTabs" role="tablist" aria-label="選擇天數"></div>
+        <article class="day-panel" id="dayPanel"></article>
+      </section>
+
+      <section class="section split" id="big5">
+        <div class="section-heading">
+          <p class="eyebrow">Visit Busan Pass</p>
+          <h2>釜山 BIG 5 通行證回本策略</h2>
+        </div>
+        <div>
+          <div class="note-box" id="big5Summary"></div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>順序</th>
+                  <th>景點</th>
+                  <th>分組</th>
+                  <th>原價</th>
+                  <th>策略</th>
+                </tr>
+              </thead>
+              <tbody id="big5Table"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="backup">
+        <div class="section-heading">
+          <p class="eyebrow">Fallback Strategy</p>
+          <h2>活動與節慶備案</h2>
+          <p>
+            大邱活動適合放在 Day2-Day4，釜山活動適合放在 Day5-Day8。備案以天候、人潮與體力為主要觸發條件。
+          </p>
+        </div>
+        <div class="backup-grid" id="backupGrid"></div>
+      </section>
+
+      <section class="section" id="maps">
+        <div class="section-heading">
+          <p class="eyebrow">Map Tools</p>
+          <h2>導航與外部地圖</h2>
+        </div>
+        <div class="tool-grid">
+          <a class="tool-card" id="naverMapLink" href="#" target="_blank" rel="noreferrer">
+            <span>NAVER Map</span>
+            <strong>韓國主導航</strong>
+          </a>
+          <a class="tool-card" id="kimMapLink" href="#" target="_blank" rel="noreferrer">
+            <span>金導遊</span>
+            <strong>釜山地圖</strong>
+          </a>
+          <a class="tool-card" id="kimPassLink" href="#" target="_blank" rel="noreferrer">
+            <span>BUSAN PASS</span>
+            <strong>金導遊通行證地圖</strong>
+          </a>
+          <a class="tool-card" id="cheapMapLink" href="#" target="_blank" rel="noreferrer">
+            <span>省錢查找</span>
+            <strong>韓國乞丐地圖</strong>
+          </a>
+        </div>
+      </section>
+
+      <section class="section assistant-section" id="assistant">
+        <div class="section-heading">
+          <p class="eyebrow">AI Helper</p>
+          <h2>卡迪巴拉 AI 小助手</h2>
+          <p>選擇當天狀態，卡迪巴拉會用既有行程與備案規則產生可執行建議。</p>
+        </div>
+        <div class="assistant-card">
+          <div class="assistant-controls">
+            <label>
+              今天
+              <select id="assistantDay"></select>
+            </label>
+            <label>
+              天候
+              <select id="assistantWeather">
+                <option value="hot">極端高溫</option>
+                <option value="rain">午後雷雨</option>
+                <option value="normal">天氣穩定</option>
+              </select>
+            </label>
+            <label>
+              體力
+              <select id="assistantEnergy">
+                <option value="low">偏低</option>
+                <option value="medium">普通</option>
+                <option value="high">很好</option>
+              </select>
+            </label>
+            <button class="primary-btn" type="button" id="askAssistant">產生建議</button>
+          </div>
+          <div class="assistant-output" id="assistantOutput" aria-live="polite"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>2026 釜山大邱自助旅遊規劃</span>
+      <a href="#overview">回到頂部</a>
+    </footer>
+
+    <script src="site-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
