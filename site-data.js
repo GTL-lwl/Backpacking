@@ -351,73 +351,73 @@ window.TRAVEL_DATA = {
     {
       "day": 5,
       "date": "8/1",
-      "title": "回釜山：入住 W Stay、Spa Land 與活動排雷",
-      "focus": "8/1 釜山夜跑造成廣安里/BEXCO 人潮與交通管制，因此安排西面與室內 Spa Land 閃避。",
-      "docUrl": "https://docs.google.com/document/d/13nI5_UsH9i_rO-A9ibi2rAfz0ogLrSkg0cmAWTRB60c/edit?tab=t.0",
+      "title": "釜山首日：大邱退房移動、W Stay 寄行李與西面 Samjung Tower 深度避暑血拼",
+      "focus": "大邱 StarBnB 退房 高鐵回釜山 釜山站寶可夢打卡 W Stay 嚴格寄行李 西面午餐 Samjung Tower (Q Lounge 避暑) 西面商圈血拼 西面 DOZN 提早退稅 味讚王鹽烤肉 回 W Stay 洗衣入住",
+      "docUrl": "https://docs.google.com/document/d/1d4gfzJbrFAXg9G9qcpuj_WQ9f5_p4wDteilxAfQrpQM/edit?tab=t.0",
       "schedule": [
         {
           "time": "07:30 - 08:30",
           "activity": "起床整理與享用大邱早餐",
           "transport": "步行即可",
-          "mapKeyword": "티모닝 (T.Morning) 053-421-4573",
+          "mapKeyword": "티모닝 (T.Morning)053-421-4573",
           "note": "建議前一晚先買好超商早餐，或去附近的鐵板吐司店買早餐，邊吃邊確認行李。",
-          "naverUrl": "https://map.naver.com/p/search/%ED%8B%B0%EB%AA%A8%EB%8B%9D%20%28T.Morning%29%20053-421-4573"
+          "naverUrl": "https://map.naver.com/p/search/%ED%8B%B0%EB%AA%A8%EB%8B%9D%20%28T.Morning%29053-421-4573"
         },
         {
           "time": "08:30 - 08:45",
           "activity": "StarBnB 自助退房",
           "transport": "飯店 4 樓機台",
-          "mapKeyword": "동성로 머뭄 (StarBnB) 010-6565-2422",
+          "mapKeyword": "동성로 머뭄 (StarBnB)010-6565-2422",
           "note": "帶著所有行李上 4 樓，將房卡歸還至自助機台完成退房。",
-          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EC%84%B1%EB%A1%9C%20%EB%A8%B8%EB%AD%84%20%28StarBnB%29%20010-6565-2422"
+          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EC%84%B1%EB%A1%9C%20%EB%A8%B8%EB%AD%84%20%28StarBnB%29010-6565-2422"
         },
         {
           "time": "08:45 - 09:10",
           "activity": "搭乘地鐵前往東大邱站",
           "transport": "地鐵 1 號線",
-          "mapKeyword": "동대구역 1호선 053-250-4101",
+          "mapKeyword": "동대구역 1호선053-250-4101",
           "note": "從【中央路站】進站，坐 4 站到【東大邱站】下車，沿指標前往高鐵大廳。",
-          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD%201%ED%98%B8%EC%84%A0%20053-250-4101"
+          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD%201%ED%98%B8%EC%84%A0053-250-4101"
         },
         {
           "time": "09:10 - 10:00",
           "activity": "搭高鐵 (KTX/SRT) 回釜山",
           "transport": "KTX / SRT 高鐵",
-          "mapKeyword": "동대구역 경부선 1544-7788",
+          "mapKeyword": "동대구역 경부선1544-7788",
           "note": "告別大邱，車程約 45 分鐘，抵達釜山站。",
-          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD%20%EA%B2%BD%EB%B6%80%EC%84%A0%201544-7788"
+          "naverUrl": "https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD%20%EA%B2%BD%EB%B6%80%EC%84%A01544-7788"
         },
         {
           "time": "10:00 - 10:30",
           "activity": "抵達釜山站 ＆ 寶可夢打卡",
           "transport": "步行至車站廣場",
-          "mapKeyword": "부산역 1544-7788",
+          "mapKeyword": "부산역1544-7788",
           "note": "順遊釜山車站廣場的「寶可夢 Mega Festa」巨型裝置打卡。",
-          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EC%97%AD%201544-7788"
+          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EC%97%AD1544-7788"
         },
         {
           "time": "10:30 - 11:15",
           "activity": "移動至 W Stay 飯店寄行李",
           "transport": "地鐵 1 號線",
-          "mapKeyword": "시청역 1호선 051-640-1120",
+          "mapKeyword": "시청역 1호선051-640-1120",
           "note": "釜山站 市廳站 (坐 7 站)，1 號出口步行 3 分鐘。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%8B%9C%EC%B2%AD%EC%97%AD%201%ED%98%B8%EC%84%A0%20051-640-1120"
+          "naverUrl": "https://map.naver.com/p/search/%EC%8B%9C%EC%B2%AD%EC%97%AD%201%ED%98%B8%EC%84%A0051-640-1120"
         },
         {
           "time": "11:15 - 11:45",
-          "activity": "W Stay (蓮山) 寄放行李",
+          "activity": "W Stay (市廳/蓮山) 寄放行李",
           "transport": "步行",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
+          "mapKeyword": "W 스테이 부산 시청점051-852-0010",
           "note": "詳見下方 W Stay 嚴格入住與洗衣須知！",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90051-852-0010"
         },
         {
           "time": "11:45 - 12:15",
           "activity": "移動至西面商圈",
           "transport": "地鐵 1 號線",
-          "mapKeyword": "서면역 1호선 051-640-1119",
+          "mapKeyword": "서면역 1호선051-640-1119",
           "note": "市廳站 西面站 (坐 2 站)。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%84%9C%EB%A9%B4%EC%97%AD%201%ED%98%B8%EC%84%A0%20051-640-1119"
+          "naverUrl": "https://map.naver.com/p/search/%EC%84%9C%EB%A9%B4%EC%97%AD%201%ED%98%B8%EC%84%A0051-640-1119"
         },
         {
           "time": "12:15 - 13:45",
@@ -428,230 +428,222 @@ window.TRAVEL_DATA = {
           "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E5%8D%88%E9%A4%90%203%20%E5%A4%A7%E5%82%99%E6%A1%88%29"
         },
         {
-          "time": "13:45 - 15:15",
-          "activity": "西面地下街 逛街採買",
+          "time": "13:45 - 16:15",
+          "activity": "Samjung Tower (Q Lounge) 避暑",
+          "transport": "西面站步行約 5 分鐘",
+          "mapKeyword": "삼정타워051-520-3600",
+          "note": "替代方案！ 8F Q Lounge 挑高冷氣強，喝咖啡吃甜點，免除往返 Spa Land 的拉車消耗。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%82%BC%EC%A0%95%ED%83%80%EC%9B%8C051-520-3600"
+        },
+        {
+          "time": "16:15 - 18:30",
+          "activity": "西面地下街 & 商圈採買",
           "transport": "步行",
-          "mapKeyword": "서면역 지하쇼핑센터 051-713-8200",
-          "note": "韓國當季平價流行女裝、正韓包包與百元服飾。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%84%9C%EB%A9%B4%EC%97%AD%20%EC%A7%80%ED%95%98%EC%87%BC%ED%95%91%EC%84%BC%ED%84%B0%20051-713-8200"
+          "mapKeyword": "서면역 지하쇼핑센터051-713-8200",
+          "note": "韓國當季平價流行女裝、正韓包包與美妝保養品。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%84%9C%EB%A9%B4%EC%97%AD%20%EC%A7%80%ED%95%98%EC%87%BC%ED%95%91%EC%84%BC%ED%84%B0051-713-8200"
         },
         {
-          "time": "15:15 - 15:45",
-          "activity": "前往仙特博城 (Centum City)",
-          "transport": "地鐵 2 號線",
-          "mapKeyword": "센텀시티역 2호선 051-610-1206",
-          "note": "西面站 仙特博城站 (坐 12 站)。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0%EC%97%AD%202%ED%98%B8%EC%84%A0%20051-610-1206"
-        },
-        {
-          "time": "15:45 - 18:30",
-          "activity": "【BIG 5 景點 1】Spa Land",
-          "transport": "位於新世界百貨內",
-          "mapKeyword": "스파랜드 센텀시티 051-745-2900",
-          "note": "刷 BIG 5 免費入場！(原價 20,000 韓元) 五星級豪華汗蒸幕。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%8A%A4%ED%8C%8C%EB%9E%9C%EB%93%9C%20%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0%20051-745-2900"
-        },
-        {
-          "time": "18:30 - 19:30",
-          "activity": "【晚餐】新世界百貨美食街",
-          "transport": "步行",
-          "mapKeyword": "신세계백화점 센텀시티점 1588-1234",
-          "note": "泡完湯直接在百貨內吃冷麵或韓式料理，最順路。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0%EC%A0%90%201588-1234"
-        },
-        {
-          "time": "19:30 - 20:00",
-          "activity": "百貨內/市區 DOZN 退稅",
-          "transport": "新世界百貨退稅中心",
+          "time": "18:30 - 19:00",
+          "activity": "西面市區 DOZN 提早退稅",
+          "transport": "西面商圈內",
           "mapKeyword": "도즌 무인환전기",
-          "note": "買完直接用機台或櫃台退稅！(詳見下方教學)",
+          "note": "買完直接用機台退稅！(詳見下方教學)",
           "naverUrl": "https://map.naver.com/p/search/%EB%8F%84%EC%A6%8C%20%EB%AC%B4%EC%9D%B8%ED%99%98%EC%A0%84%EA%B8%B0"
         },
         {
-          "time": "20:00 ~",
+          "time": "19:00 - 20:30",
+          "activity": "【晚餐】味讚王鹽烤肉 西面店",
+          "transport": "步行即可抵達",
+          "mapKeyword": "맛찬들서면051-808-6692",
+          "note": "3.5 公分超厚切熟成豬五花，專人代烤補充電力。",
+          "naverUrl": "https://map.naver.com/p/search/%EB%A7%9B%EC%B0%AC%EB%93%A4%EC%84%9C%EB%A9%B4051-808-6692"
+        },
+        {
+          "time": "20:30 ~",
           "activity": "返回 W Stay 正式入住與洗衣",
-          "transport": "地鐵 2 轉 1 或 3 號線",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
-          "note": "領取行李進房，向櫃台借曬衣架洗衣服。",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "transport": "地鐵 1 號線",
+          "mapKeyword": "W 스테이 부산 시청점051-852-0010",
+          "note": "市廳站 1 號出口回飯店，領取行李進房，向櫃台借曬衣架洗衣服。",
+          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90051-852-0010"
         }
       ]
     },
     {
       "day": 6,
       "date": "8/2",
-      "title": "機張海線：Skyline Luge、龍宮寺、海岸列車與 X the SKY",
-      "focus": "機張與海雲台跨度大，早段建議計程車換取體力，傍晚銜接海景與高空夜景。",
-      "docUrl": "https://docs.google.com/document/d/1rI3nPSQy1to4aexmIhAb9thUT_EeFP5jv03Df1f0NfI/edit?tab=t.0",
+      "title": "釜山市區防禦：影島沉浸藝術與白晝釜山塔保母級行程規劃書",
+      "focus": "巧妙避開週末海岸線塞車，全日主攻市區！ 影島 Arte Museum P.ARK 巨型海景咖啡 南浦洞午餐 【BIG 5】白晝釜山塔 樂天超市 DOZN 提早退稅 週末夜市",
+      "docUrl": "https://docs.google.com/document/d/1wKWBf5gw-pbe-5ixVTG2f0Wsl-SgrM_miQAs1afwtkw/edit?tab=t.0",
       "schedule": [
         {
           "time": "08:30 - 09:30",
           "activity": "起床與享用早餐",
-          "transport": "飯店周邊步行",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
-          "note": "建議在市廳站周邊吃完飯捲或超商早餐再出發。",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "transport": "步行",
+          "mapKeyword": "W 스테이 부산 시청점051-852-0010",
+          "note": "在飯店周圍享用簡單早餐後出發。",
+          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90051-852-0010"
         },
         {
           "time": "09:30 - 10:15",
-          "activity": "前往機張區 (包攬早晨行程)",
-          "transport": "Kakao T 計程車",
-          "mapKeyword": "스카이라인루지 부산 051-722-6002",
-          "note": "強烈建議搭計程車！ 省去轉乘的 1 小時酷暑折磨。(車程25分，預估車資約 22,000 韓元)",
-          "naverUrl": "https://map.naver.com/p/search/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EB%A3%A8%EC%A7%80%20%EB%B6%80%EC%82%B0%20051-722-6002"
+          "activity": "前往影島 Arte Museum",
+          "transport": "地鐵 1 號線轉 計程車",
+          "mapKeyword": "아르떼뮤지엄 부산1899-5008",
+          "note": "搭地鐵至「南浦站」，轉乘計程車直達 Arte Museum (車資約 ₩6,000)。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%95%84%EB%A5%B4%EB%96%BC%EB%AE%A4%EC%A7%80%EC%97%84%20%EB%B6%80%EC%82%B01899-5008"
         },
         {
           "time": "10:15 - 12:30",
-          "activity": "【BIG 5 - 2】Skyline Luge",
-          "transport": "步行",
-          "mapKeyword": "스카이라인루지 부산 051-722-6002",
-          "note": "刷 BIG 5 換票。早上去排隊人最少，飆車看海極度刺激！",
-          "naverUrl": "https://map.naver.com/p/search/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EB%A3%A8%EC%A7%80%20%EB%B6%80%EC%82%B0%20051-722-6002"
+          "activity": "【BIG 5 藍 1】Arte Museum",
+          "transport": "步行進入場館",
+          "mapKeyword": "아르떼뮤지엄 부산1899-5008",
+          "note": "BIG 5 正式開卡！ 冷氣極強的頂級光影展，完美避開假日炎熱與人潮。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%95%84%EB%A5%B4%EB%96%BC%EB%AE%A4%EC%A7%80%EC%97%84%20%EB%B6%80%EC%82%B01899-5008"
         },
         {
-          "time": "12:30 - 14:00",
-          "activity": "【午餐】機張必吃海鮮",
-          "transport": "計程車 (約 8 分鐘)",
-          "mapKeyword": "(詳見下方午餐推薦)",
-          "note": "首推機張末端海鮮 (鮑魚粥)。(預估車資約 7,000 韓元)",
-          "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E5%8D%88%E9%A4%90%E6%8E%A8%E8%96%A6%29"
+          "time": "12:45 - 14:15",
+          "activity": "影島 P.ARK 巨型海景咖啡",
+          "transport": "短程計程車 (約 ₩4,000)",
+          "mapKeyword": "피아크 카페앤베이커리0507-1448-9208",
+          "note": "絕佳避暑備案！ 釜山目前最大的複合式海景咖啡，空間極大，吃塊蛋糕看海景。",
+          "naverUrl": "https://map.naver.com/p/search/%ED%94%BC%EC%95%84%ED%81%AC%20%EC%B9%B4%ED%8E%98%EC%95%A4%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC0507-1448-9208"
         },
         {
-          "time": "14:00 - 15:30",
-          "activity": "海東龍宮寺 參拜散策",
-          "transport": "計程車 (約 5 分鐘)",
-          "mapKeyword": "해동용궁사 051-722-7744",
-          "note": "韓國唯一建在海邊岩石上的絕美古剎。(預估車資約 5,000 韓元)",
-          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC%20051-722-7744"
+          "time": "14:30 - 15:30",
+          "activity": "【午餐】南浦洞/富平市場美食",
+          "transport": "計程車回南浦洞 (約 ₩6,000)",
+          "mapKeyword": "(詳見下方午餐 3 大備案)",
+          "note": "避開正中午尖峰，回南浦洞享用在地高 CP 值美食。",
+          "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E5%8D%88%E9%A4%90%203%20%E5%A4%A7%E5%82%99%E6%A1%88%29"
         },
         {
-          "time": "15:30 - 16:00",
-          "activity": "移動至松亭火車站",
-          "transport": "計程車 (約 10 分鐘)",
-          "mapKeyword": "해운대블루라인파크 송정정거장 051-701-5548",
-          "note": "準備搭乘海岸列車。(預估車資約 6,500 韓元)",
-          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EC%9A%B4%EB%8C%80%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%20%EC%86%A1%EC%A0%95%EC%A0%95%EA%B1%B0%EC%9E%A5%20051-701-5548"
+          "time": "15:45 - 16:45",
+          "activity": "【BIG 5 藍 2】白晝釜山塔",
+          "transport": "步行至光復洞免費戶外手扶梯",
+          "mapKeyword": "부산타워051-601-1800",
+          "note": "戰略調整！ 吃飽後步行 5 分鐘搭手扶梯上山，刷 BIG 5 俯瞰日間美麗的釜山港。",
+          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%ED%83%80%EC%9B%8C051-601-1800"
         },
         {
-          "time": "16:00 - 17:00",
-          "activity": "海雲台海岸列車 (看海)",
-          "transport": "海岸列車 (Beach Train)",
-          "mapKeyword": "해운대블루라인파크 051-701-5548",
-          "note": "BIG 5 僅能搭乘海岸列車(大車)，不能搭天空艙(小車)！ (從松亭搭到尾浦站)。",
-          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EC%9A%B4%EB%8C%80%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%20051-701-5548"
+          "time": "17:00 - 18:30",
+          "activity": "南浦洞樂天超市採買 & 逛街",
+          "transport": "步行下山直達",
+          "mapKeyword": "롯데마트 광복점051-441-2500",
+          "note": "看完日景下山，採買伴手禮與韓國當季流行服飾。",
+          "naverUrl": "https://map.naver.com/p/search/%EB%A1%AF%EB%8D%B0%EB%A7%88%ED%8A%B8%20%EA%B4%91%EB%B3%B5%EC%A0%90051-441-2500"
         },
         {
-          "time": "17:00 - 19:30",
-          "activity": "【BIG 5 - 3】釜山 X the SKY",
-          "transport": "尾浦站步行 3 分鐘",
-          "mapKeyword": "부산엑스더스카이 051-731-0098",
-          "note": "抵達尾浦站下車，直接上 100 樓觀景台賞夕陽與絕美夜景！",
-          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EC%97%91%EC%8A%A4%EB%8D%94%EC%8A%A4%EC%B9%B4%EC%9D%B4%20051-731-0098"
+          "time": "18:30 - 19:00",
+          "activity": "市區 DOZN 提早退稅",
+          "transport": "樂天超市/商圈內",
+          "mapKeyword": "도즌 무인환전기",
+          "note": "買完伴手禮，務必在樂天超市或南浦洞內用 DOZN 機台完成退稅！",
+          "naverUrl": "https://map.naver.com/p/search/%EB%8F%84%EC%A6%8C%20%EB%AC%B4%EC%9D%B8%ED%99%98%EC%A0%84%EA%B8%B0"
         },
         {
-          "time": "19:30 - 21:00",
-          "activity": "【晚餐】海雲台 / 尾浦周邊",
-          "transport": "步行即可抵達",
-          "mapKeyword": "(詳見下方晚餐推薦)",
-          "note": "享用釜山在地高 CP 值海鮮或熱湯。",
-          "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E6%99%9A%E9%A4%90%E6%8E%A8%E8%96%A6%29"
+          "time": "19:00 - 21:00",
+          "activity": "【晚餐】週末夜市或商圈周邊",
+          "transport": "步行 (無縫接軌)",
+          "mapKeyword": "(詳見下方晚餐 3 大備案)",
+          "note": "把夜景時間省下來，專心在富平罐頭夜市吃美食，感受週末熱鬧氛圍。",
+          "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E6%99%9A%E9%A4%90%203%20%E5%A4%A7%E5%82%99%E6%A1%88%29"
         },
         {
           "time": "21:00 ~",
           "activity": "返回 W Stay 飯店休息",
-          "transport": "地鐵 2轉1 或 計程車",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
-          "note": "地鐵約 40 分鐘。若累了直接叫計程車 (車程 30 分鐘，預估車資約 20,000 韓元)。",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "transport": "地鐵 1 號線直達",
+          "mapKeyword": "남포역 1호선051-640-1111",
+          "note": "從南浦站搭乘地鐵，免轉車直達市廳站，不畏懼任何週末塞車。",
+          "naverUrl": "https://map.naver.com/p/search/%EB%82%A8%ED%8F%AC%EC%97%AD%201%ED%98%B8%EC%84%A0051-640-1111"
         }
       ]
     },
     {
       "day": 7,
       "date": "8/3",
-      "title": "松島、影島與南浦：纜車、Arte Museum、釜山塔",
-      "focus": "BIG 5 使用密度最高的一天，松島、影島、南浦順路串接，晚上以釜山塔收尾。",
-      "docUrl": "https://docs.google.com/document/d/1mV8QPt0GZjS2PQvAa65RqUDHFRt1BOXt1kRDHmcxagw/edit?tab=t.0",
+      "title": "釜山東岸巡禮：機張海線狂飆與海雲台高空夕陽保母級行程規劃書",
+      "focus": "平日暢通無阻優勢 【BIG 5】機張滑坡車 海東龍宮寺 【BIG 5】海岸列車 (完美接駁) 【BIG 5】X the SKY 百萬夕陽",
+      "docUrl": "https://docs.google.com/document/d/1oCEfrv7ioS5PKnBbhjSUh7qCr0haV466p307fED1naA/edit?tab=t.0",
       "schedule": [
         {
-          "time": "08:30 - 09:30",
-          "activity": "起床、享用早餐，飯店出發",
+          "time": "08:30 - 09:15",
+          "activity": "享用早餐，飯店出發",
           "transport": "步行",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
-          "note": "準備前往松島。",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "mapKeyword": "W 스테이 부산 시청점051-852-0010",
+          "note": "吃飽喝足準備前往釜山最東邊的機張區。",
+          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90051-852-0010"
         },
         {
-          "time": "09:30 - 10:00",
-          "activity": "前往松島海上纜車",
-          "transport": "地鐵 1 號線至南浦站 計程車 (約 10 分)",
-          "mapKeyword": "송도해상케이블카 051-247-9900",
-          "note": "計程車資約 6,500 韓元。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%86%A1%EB%8F%84%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%20051-247-9900"
+          "time": "09:15 - 10:00",
+          "activity": "直奔機張 Skyline Luge",
+          "transport": "Kakao T 叫車直達 (最推薦)",
+          "mapKeyword": "스카이라인루지 부산051-722-6002",
+          "note": "從市廳站搭計程車走快速道路，車資約 ₩20,000，兩人分攤極划算且免轉車！",
+          "naverUrl": "https://map.naver.com/p/search/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EB%A3%A8%EC%A7%80%20%EB%B6%80%EC%82%B0051-722-6002"
         },
         {
-          "time": "10:00 - 11:30",
-          "activity": "【BIG 5 - 4】松島海上纜車",
-          "transport": "纜車站大樓內有電梯",
-          "mapKeyword": "송도해상케이블카 051-247-9900",
-          "note": "金導遊認證！ 刷 BIG 5 換票搭乘，橫跨松島海灣俯瞰雲橋。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%86%A1%EB%8F%84%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%20051-247-9900"
+          "time": "10:00 - 12:30",
+          "activity": "【BIG 5 紫 1】Skyline Luge",
+          "transport": "步行進入園區",
+          "mapKeyword": "스카이라인루지 부산051-722-6002",
+          "note": "紫色王牌開卡！ 趁平日早晨免排隊，盡情狂飆享受速度感。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EB%A3%A8%EC%A7%80%20%EB%B6%80%EC%82%B0051-722-6002"
         },
         {
-          "time": "11:30 - 12:30",
-          "activity": "松島海景咖啡廳 EL 16.52 避暑",
-          "transport": "纜車站步行 3 分鐘",
-          "mapKeyword": "EL 16.52 051-241-1652",
-          "note": "金導遊認證！ 7 層大巨型海景建築，泡泡球座超好拍。",
-          "naverUrl": "https://map.naver.com/p/search/EL%2016.52%20051-241-1652"
-        },
-        {
-          "time": "12:30 - 14:00",
-          "activity": "【午餐】南浦洞/富平市場美食",
-          "transport": "計程車至富平市場 (車資約 6,000 韓元)",
+          "time": "12:45 - 14:15",
+          "activity": "【午餐】機張海鮮大餐",
+          "transport": "短程計程車 (約 ₩5,000)",
           "mapKeyword": "(詳見下方午餐 3 大備案)",
-          "note": "享用金導遊地圖推薦的在地高 CP 值美食。",
+          "note": "來到機張一定要吃海鮮！(首推鮑魚粥或傳統韓定食)",
           "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E5%8D%88%E9%A4%90%203%20%E5%A4%A7%E5%82%99%E6%A1%88%29"
         },
         {
-          "time": "14:00 - 17:00",
-          "activity": "影島 Arte Museum 沉浸式展覽",
-          "transport": "計程車直達影島 (車資約 7,000 韓元)",
-          "mapKeyword": "아르떼뮤지엄 부산 1899-5008",
-          "note": "金導遊認證！ 冷氣極強的數位光影藝術館，避暑極佳。",
-          "naverUrl": "https://map.naver.com/p/search/%EC%95%84%EB%A5%B4%EB%96%BC%EB%AE%A4%EC%A7%80%EC%97%84%20%EB%B6%80%EC%82%B0%201899-5008"
+          "time": "14:30 - 15:45",
+          "activity": "海東龍宮寺 參拜散策",
+          "transport": "短程計程車 (約 ₩5,000)",
+          "mapKeyword": "해동용궁사051-722-7744",
+          "note": "韓國唯一建在海邊岩石上的絕美古剎，聽海浪聲祈福。",
+          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC051-722-7744"
         },
         {
-          "time": "17:00 - 18:30",
-          "activity": "南浦洞樂天超市採買 & 市區退稅",
-          "transport": "計程車回南浦洞 (車資約 6,000 韓元)",
-          "mapKeyword": "롯데마트 광복점 051-441-2500",
-          "note": "買伴手禮，並在樂天超市/南浦洞內用 DOZN 機台退稅！",
-          "naverUrl": "https://map.naver.com/p/search/%EB%A1%AF%EB%8D%B0%EB%A7%88%ED%8A%B8%20%EA%B4%91%EB%B3%B5%EC%A0%90%20051-441-2500"
+          "time": "16:00 - 16:30",
+          "activity": "移動至「松亭站」搭車",
+          "transport": "短程計程車 (約 ₩6,000)",
+          "mapKeyword": "해운대블루라인파크 송정정거장051-701-5548",
+          "note": "從龍宮寺搭車前往海岸列車的起點「松亭站」。",
+          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EC%9A%B4%EB%8C%80%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%20%EC%86%A1%EC%A0%95%EC%A0%95%EA%B1%B0%EC%9E%A5051-701-5548"
         },
         {
-          "time": "18:30 - 20:00",
-          "activity": "【晚餐】南浦商圈周邊美食",
-          "transport": "步行即可抵達",
+          "time": "16:30 - 17:15",
+          "activity": "【BIG 5 藍 3】海岸列車",
+          "transport": "刷 BIG 5 搭乘海岸列車",
+          "mapKeyword": "송정정거장 미포정거장",
+          "note": "神級交通助攻！ 搭列車沿著海岸線欣賞無敵海景，一路避開車陣直達海雲台尾浦。",
+          "naverUrl": "https://map.naver.com/p/search/%EC%86%A1%EC%A0%95%EC%A0%95%EA%B1%B0%EC%9E%A5%20%EB%AF%B8%ED%8F%AC%EC%A0%95%EA%B1%B0%EC%9E%A5"
+        },
+        {
+          "time": "17:30 - 19:30",
+          "activity": "【BIG 5 紫 2】X the SKY",
+          "transport": "尾浦站下車，步行 3 分鐘",
+          "mapKeyword": "부산엑스더스카이051-731-0098",
+          "note": "紫色王牌開卡！ 登上 100 樓，在全世界最高的星巴克喝咖啡，將黃昏日落盡收眼底。",
+          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EC%97%91%EC%8A%A4%EB%8D%94%EC%8A%A4%EC%B9%B4%EC%9D%B4051-731-0098"
+        },
+        {
+          "time": "19:30 - 21:00",
+          "activity": "【晚餐】尾浦 / 海雲台美食",
+          "transport": "步行即可",
           "mapKeyword": "(詳見下方晚餐 3 大備案)",
-          "note": "吃飽後準備體驗陽台音樂秀與街頭慶典。",
+          "note": "晚餐安排在 LCT 大樓周邊，吃飽後可沿著海雲台沙灘散步。",
           "naverUrl": "https://map.naver.com/p/search/%28%E8%A9%B3%E8%A6%8B%E4%B8%8B%E6%96%B9%E6%99%9A%E9%A4%90%203%20%E5%A4%A7%E5%82%99%E6%A1%88%29"
-        },
-        {
-          "time": "20:00 - 21:00",
-          "activity": "【BIG 5 - 5】釜山塔與龍頭山公園",
-          "transport": "尋找光復洞免費戶外手扶梯上山",
-          "mapKeyword": "부산타워 051-601-1800",
-          "note": "金導遊認證！ 刷 BIG 5 登塔，俯瞰釜山港與南浦洞璀璨夜景。",
-          "naverUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%ED%83%80%EC%9B%8C%20051-601-1800"
         },
         {
           "time": "21:00 ~",
           "activity": "返回 W Stay 飯店休息",
-          "transport": "地鐵 1 號線 (南浦站 市廳站)",
-          "mapKeyword": "W 스테이 부산 시청점 051-852-0010",
-          "note": "乘坐地鐵直達飯店，輕鬆休息。",
-          "naverUrl": "https://map.naver.com/p/search/W%20%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B6%80%EC%82%B0%20%EC%8B%9C%EC%B2%AD%EC%A0%90%20051-852-0010"
+          "transport": "地鐵 2 號線轉 1 號線",
+          "mapKeyword": "해운대역 2호선",
+          "note": "從海雲台站上車，至西面站轉 1 號線回市廳站。",
+          "naverUrl": "https://map.naver.com/p/search/%ED%95%B4%EC%9A%B4%EB%8C%80%EC%97%AD%202%ED%98%B8%EC%84%A0"
         }
       ]
     },
@@ -816,52 +808,52 @@ window.TRAVEL_DATA = {
     "kimBusanMap": "https://www.google.com/maps/d/edit?mid=1aIjjjtz50K5-8f58za_CSx7P4T4a1rY&usp=sharing",
     "kimBusanPass": "https://www.google.com/maps/d/viewer?mid=1TAwUGRKCoXkc4sS-T-3xR2oBJGDXjxg&ll=35.17356041151676%2C129.08809425&z=11",
     "cheapMap": "https://xn--v69ak0xskm.com/",
-    "big5Doc": "https://docs.google.com/document/d/1aNHzs96UZTtl0lfpNYCncdVDEMXlZFx93tk1tlemr2k/edit?tab=t.0",
+    "big5Doc": "https://docs.google.com/document/d/1Bj2KXvhQtTTd8LBgrZVIPJFmuuT0NZ0NkjhrUJZFtk8/edit?tab=t.0",
     "daeguBackupDoc": "https://docs.google.com/document/d/1-uTLFsqWtcMBAVk6akJOEqPb04p4Iz8GFoDpyKBRspA/edit?tab=t.0",
     "busanBackupDoc": "https://docs.google.com/document/d/1n7DksiSS2jUOpExSEma1sHlmyBPHJKzTV5oFK7Wfiew/edit?tab=t.0"
   },
   "big5": {
     "summary": [
-      "BIG 5 成本 65,000 韓元；最佳化景點原價合計約 103,000 韓元。",
-      "A 組僅 2 個名額，保留給 Skyline Luge 與 X the SKY。",
-      "Spa Land 若占 A 組不划算，Day5 建議自費或使用折扣票。",
-      "B 組優先用在松島海上纜車、Arte Museum、釜山塔；海岸列車可現場用交通卡。"
+      "最終版改為 Day6-Day7 使用：嚴格遵守 2 紫 + 3 藍官方上限。",
+      "兌換陣容總價值約 ₩95,000，對比 BIG 5 通行證 ₩65,000，票面差額約 ₩30,000。",
+      "Day6 週日避開海線塞車，使用藍 1 Arte Museum 與藍 2 釜山塔。",
+      "Day7 週一主攻機張與海雲台，使用紫 1 Skyline Luge、藍 3 海岸列車、紫 2 X the SKY。"
     ],
     "items": [
       {
-        "order": "BIG 5 - 1",
-        "name": "Skyline Luge 滑坡車 (스카이라인루지 부산)",
-        "group": "A 組 (紫色)",
-        "price": "₩27,000",
-        "strategy": "Day 6 (8/2) 上午 (機張)： 單價極高！一早搭計程車抵達，免排隊直接刷卡飆車。"
-      },
-      {
-        "order": "BIG 5 - 2",
-        "name": "釜山 X the SKY 觀景台 (부산엑스더스카이)",
-        "group": "A 組 (紫色)",
-        "price": "₩27,000",
-        "strategy": "Day 6 (8/2) 傍晚 (海雲台)： A 組額度用盡。傍晚登 100 樓看夕陽，造訪世界最高星巴克。"
-      },
-      {
-        "order": "BIG 5 - 3",
-        "name": "松島海上纜車 (송도해상케이블카)",
-        "group": "B 組 (藍色)",
-        "price": "₩15,000",
-        "strategy": "Day 7 (8/3) 上午 (松島)： B 組首發。橫跨絕美海灣，釜山南部跳島行程的完美起點。"
-      },
-      {
-        "order": "BIG 5 - 4",
-        "name": "影島 Arte Museum (아르떼뮤지엄 부산)",
-        "group": "B 組 (藍色)",
+        "order": "【藍 1】(B組)",
+        "name": "影島 Arte Museum",
+        "group": "Day 6 (8/2 週日) 下午",
         "price": "₩22,000",
-        "strategy": "Day 7 (8/3) 下午 (影島)： B 組霸主！原價極高，冷氣極強，是午後避暑與拍美照的聖地。"
+        "strategy": "B組最高單價王牌！ 週末南浦洞市區極致避暑首選，冷氣極強，且距離商圈近，免去長途拉車。"
       },
       {
-        "order": "BIG 5 - 5",
-        "name": "釜山塔 (鑽石塔) (부산타워)",
-        "group": "B 組 (藍色)",
+        "order": "【藍 2】(B組)",
+        "name": "釜山塔 (鑽石塔)",
+        "group": "Day 6 (8/2 週日) 下午",
         "price": "₩12,000",
-        "strategy": "Day 7 (8/3) 晚上 (南浦洞)： B 組額度用盡。搭手扶梯輕鬆登頂，以釜山百萬夜景完美收官。"
+        "strategy": "步行動線神卡！ 吃完午餐走路去搭手扶梯登塔。改看「白晝釜山港」，看完下山直接去樂天超市血拼。"
+      },
+      {
+        "order": "【紫 1】(A組)",
+        "name": "Skyline Luge 滑坡車",
+        "group": "Day 7 (8/3 週一) 早上",
+        "price": "₩27,000",
+        "strategy": "高單價必選！ 將海線移到平日(週一)早上前往，完美避開週末車潮與排隊人潮，包車去玩最暢快。"
+      },
+      {
+        "order": "【藍 3】(B組)",
+        "name": "海雲台海岸列車 (松亭 尾浦)",
+        "group": "Day 7 (8/3 週一) 下午",
+        "price": "₩7,000",
+        "strategy": "交通神助攻！ 不把它當單純景點，而是當作從機張回海雲台的「免塞車專屬接駁車」，省下一趟計程車費。"
+      },
+      {
+        "order": "【紫 2】(A組)",
+        "name": "BUSAN X the SKY",
+        "group": "Day 7 (8/3 週一) 傍晚",
+        "price": "₩27,000",
+        "strategy": "高單價必選！ 海岸列車下車後，步行 3 分鐘直接搭電梯直達 100 樓看絕美夕陽，完美消耗最後一個紫色額度。"
       }
     ]
   },

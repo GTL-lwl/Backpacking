@@ -30,22 +30,22 @@ const dayThemes = {
     b: "#db2777",
   },
   5: {
-    label: "釜山城市 Spa 與西面霓虹",
-    mood: "Spa Land、百貨避暑、夜跑交通排雷",
+    label: "雙城移動與西面避暑血拼",
+    mood: "大邱退房、KTX 回釜山、W Stay 寄行李、Samjung Tower",
     image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
     a: "#06b6d4",
     b: "#8b5cf6",
   },
   6: {
-    label: "機張海線與高空夜景",
-    mood: "Skyline Luge、龍宮寺、海岸列車、X the SKY",
+    label: "假日防禦與白晝釜山塔",
+    mood: "影島 Arte Museum、P.ARK、南浦午餐、白晝釜山塔",
     image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
     a: "#0ea5e9",
     b: "#14b8a6",
   },
   7: {
-    label: "松島纜車、影島藝術與南浦夜景",
-    mood: "海上纜車、Arte Museum、釜山塔霓虹",
+    label: "機張海線與海雲台高空夕陽",
+    mood: "Skyline Luge、龍宮寺、海岸列車、X the SKY",
     image: "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80",
     a: "#4f46e5",
     b: "#ec4899",
@@ -206,7 +206,7 @@ function buildReply(rawMessage) {
 
   if (asksBig5) {
     const list = data.big5.items.map((item) => `${item.order}：${item.name}｜${item.group}｜${item.price}`).join("\n");
-    return `BIG 5 建議照高價與順路程度使用：\n${list}\n\n重點是把 Spa Land 放 Day5，Skyline Luge 與 X the SKY 放 Day6，松島纜車、Arte Museum、釜山塔放 Day7，避免每天來回拉車。`;
+    return `BIG 5 最終版建議照 2 紫 + 3 藍使用：\n${list}\n\n重點是 Day6 週日避開海線塞車，使用 Arte Museum 與釜山塔；Day7 週一主攻機張與海雲台，使用 Skyline Luge、海岸列車與 X the SKY。`;
   }
 
   if (asksRefund) {
@@ -226,9 +226,9 @@ function buildReply(rawMessage) {
     if (isHot) advice.push("太熱時把戶外壓到早上或傍晚，中午改百貨、咖啡廳、展館。");
     if (isTired) advice.push("太累時刪掉最遠或最低優先景點，保留住宿附近餐飲與已預約項目。");
     if (day.day <= 4) advice.push("大邱段可用 EXCO、間松美術館、大邱美術館或百貨作備案。");
-    if (day.day === 5) advice.push("Day5 以西面和 Spa Land 為主，可以避開廣安里夜跑人潮。");
-    if (day.day === 6) advice.push("Day6 若機張海線下雨，縮短龍宮寺與海岸列車，改海雲台室內商場或提早 X the SKY。");
-    if (day.day === 7) advice.push("Day7 若戶外不順，保留 Arte Museum 與釜山塔，松島纜車視風雨決定。");
+    if (day.day === 5) advice.push("Day5 以雙城移動與西面室內避暑為主，保留寄行李、Samjung Tower、DOZN 退稅與晚餐。");
+    if (day.day === 6) advice.push("Day6 週日已是市區防禦線，雨天可保留 Arte Museum、P.ARK、釜山塔與樂天超市。");
+    if (day.day === 7) advice.push("Day7 若機張海線天候不佳，縮短龍宮寺與海岸移動，保留 Skyline Luge 或 X the SKY 中較穩的項目。");
     if (day.day === 8) advice.push("Day8 醫美後以西面室內購物為主，多大浦夕陽水舞視體力與天氣決定。");
     if (day.day === 9) advice.push("Day9 不加景點，機場與退稅時間要保守。");
     return `Day ${day.day} 調整建議：\n${advice.map((item) => `- ${item}`).join("\n")}`;
